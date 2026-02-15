@@ -1,0 +1,2 @@
+// constants.js
+export const ITEMS_PER_PAGE = 18;
